@@ -1,4 +1,4 @@
-##  Hi👋, I'm Rachid AHsoune 👋
+##  Hi👋, I'm Rachid Ahsoune 👋
 
 
 ####  Frontend Web Developer from morocco
