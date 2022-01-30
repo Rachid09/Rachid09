@@ -1,7 +1,7 @@
 ##  Hi👋, I'm Rachid Ahsoune 👋
 
 
-####  Frontend Web Developer from morocco
+####  Passionate Frontend Web Developer from morocco
 
 - 🔭 I’m currently working on [Digital Partnership Group](https://digital-partnership.com/ "Digital Partnership Group")
 - 🌱 I’m currently learning Next.js with the help of [Docs](https://nextjs.org/docs/ "Next.js documentation")
