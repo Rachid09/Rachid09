@@ -3,7 +3,7 @@
 
 ####  Passionate Frontend Web Developer from morocco
 
-- 🔭 I’m currently working on [Digital Partnership Group](https://digital-partnership.com/ "Digital Partnership Group")
+- 🔭 I’m currently working as frontend engineer at [Sekera group](https://sekera-group.com)
 - 🌱 I’m currently learning Next.js with the help of [Docs](https://nextjs.org/docs/ "Next.js documentation")
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
