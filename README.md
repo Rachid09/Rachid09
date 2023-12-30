@@ -36,6 +36,47 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+
+
+
+
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3px">📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Rachid09/github-readme-stats"><img alt="Rachid Ahsoune's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rachid09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
+    
+  <a href="https://github.com/Rachid09/github-readme-stats"><img alt="Rachid Ahsoune's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachid09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+
+<br/>
+<br/>
+
+<a href="https://github.com/Rachid09/github-readme-activity-graph"><img alt="Rachid Ahsoune's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rachid09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+    <a href="https://github.com/Rachid09/github-readme-stats">
+        <img title="My github trophies 🔥" alt="Rachid Ahsoune's trophies" src="https://github-profile-trophy.vercel.app/?username=Rachid09&theme=discord&no-frame=true&no-bg=true" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Rachid09/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rachid Ahsoune's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachid09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br/>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Rachid09">
+</a>
+<a href="https://github.com/Rachid09?tab=followers"><img src="https://img.shields.io/github/followers/Rachid09?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
+<br/>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
