@@ -50,7 +50,8 @@
   
 
 <br/>
-<br/>
+
+
 [![Rachid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachid09&bg_color=ffffff&color=1276a1&line=8aa8f0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
