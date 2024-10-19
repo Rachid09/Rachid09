@@ -4,10 +4,10 @@
 ####  Passionate Frontend Web Developer from morocco
 
 - 🔭 I’m currently working as frontend engineer at [Sekera group](https://sekera-group.com)
-- 🌱 I’m currently learning Next.js with the help of [Docs](https://nextjs.org/docs/ "Next.js documentation")
+<!-- - 🌱 I’m currently learning Next.js with the help of [Docs](https://nextjs.org/docs/ "Next.js documentation")-->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Javascript,React,Next,PHP,Laravel
+- 💬 Ask me about Javascript,Angular,Svelte,Next,PHP,Laravel
 - 📫 For business offers/missions feel free to get in touch with me on [Linkedin](https://www.linkedin.com/in/rachid-ahsoune-308a971a3/ "Linkedin")
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -25,10 +25,10 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52245687/252022914-259b189a-155e-4be3-ac57-ade3f0bc39fc.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+ </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
