@@ -41,35 +41,6 @@
 
 
 
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3px">📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Rachid09/github-readme-stats"><img alt="Rachid Ahsoune's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rachid09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
-    
-  <a href="https://github.com/Rachid09/github-readme-stats"><img alt="Rachid Ahsoune's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachid09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-
-<br/>
-
-
-[![Rachid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachid09&bg_color=ffffff&color=1276a1&line=8aa8f0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-    <a href="https://github.com/Rachid09/github-readme-stats">
-        <img title="My github trophies 🔥" alt="Rachid Ahsoune's trophies" src="https://github-profile-trophy.vercel.app/?username=Rachid09&theme=discord&no-frame=true&no-bg=true" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/Rachid09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rachid Ahsoune's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachid09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<br/>
-
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Rachid09">
